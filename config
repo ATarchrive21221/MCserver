@@ -1,0 +1,87 @@
+# Mapkit Section 🔽
+      
+   mapkit_sharpness: 1
+   mapkit_protection: 1
+   mapkit_efficiency: 5
+   mapkit_unbreaking: 3
+   mapkit_bow_power: 3
+
+      # KitSigns 🔽
+    
+   archer_kitsign_line1: "&8&m                    "
+   archer_kitsign_line2:    "  &c&l[Kit]   "
+   archer_kitsign_line3:     "  &d&lArcher  "
+   archer_kitsign_line4: "&8&m                    "
+   
+   diamond_kitsign_line1: "&8&m                    "
+   diamond_kitsign_line2:     "  &c&l[Kit]   "
+   diamond_kitsign_line3:     "  &9&lDiamond  "
+   diamond_kitsign_line4: "&8&m                    "
+   
+   bard_kitsign_line1: "&8&m                    "
+   bard_kitsign_line2:    "  &c&l[Kit]   "
+   bard_kitsign_line3:     "  &6&lBard  "
+   bard_kitsign_line4: "&8&m                    "
+   
+   rogue_kitsign_line1: "&8&m                    "
+   rogue_kitsign_line2:     "  &c&l[Kit]   "
+   rogue_kitsign_line3:    "    &8&lRogue   "
+   rogue_kitsign_line4: "&8&m                    "
+   
+   builder_kitsign_line1: "&8&m                    "
+   builder_kitsign_line2:     "  &c&l[Kit]   "
+   builder_kitsign_line3:    "   &2&lBuilder   "
+   builder_kitsign_line4: "&8&m                    "
+   
+      #Armor, Tools & Weapon Names 🔽
+   
+   archer_sword_name: "&d[Archer] &fSword"
+   archer_bow_name: "&d[Archer] &fBow"
+   archer_helmet_name: "&d[Archer] &fHelmet"   
+   archer_chestplate_name: "&d[Archer] &fChestplate" 
+   archer_leggings_name: "&d[Archer] &fLeggings"
+   archer_boots_name: "&d[Archer] &fBoots"
+   
+   diamond_sword_name: "&9[Diamond] &fSword"
+   diamond_helmet_name: "&9[Diamond] &fHelmet"
+   diamond_chestplate_name: "&9[Diamond] &fChestplate" 
+   diamond_leggings_name: "&9[Diamond] &fLeggings"
+   diamond_boots_name: "&9[Diamond] &fBoots"
+
+   bard_sword_name: "&e[Bard] &fSword"
+   bard_helmet_name: "&e[Bard] &fHelmet"
+   bard_chestplate_name: "&e[Bard] &fChestplate" 
+   bard_leggings_name: "&e[Bard] &fLeggings"
+   bard_boots_name: "&e[Bard] &fBoots"
+   
+   rogue_sword_name: "&8[Rogue] &fSword"
+   rogue_helmet_name: "&8[Rogue] &fHelmet"
+   rogue_chestplate_name: "&8[Rogue] &fChestplate" 
+   rogue_leggings_name: "&8[Rogue] &fLeggings"
+   rogue_boots_name: "&8[Rogue] &fBoots"
+   
+   builder_sword_name: "&a[Miner] &fSword"
+   builder_shovel_name: "&a[Miner] &fShovel"
+   builder_axe_name: "&a[Miner] &fAxe"
+   builder_pickaxe_name: "&a[Miner] &fPickaxe"
+   builder_helmet_name: "&a[Miner] &fHelmet"
+   builder_chestplate_name: "&a[Miner] &fChestplate" 
+   builder_leggings_name: "&a[Miner] &fLeggings"
+   builder_boots_name: "&a[Miner] &fBoots"
+
+                         # Messages ( MORE COMING SOON!) 🔽
+
+   diamond_successfully_loaded: "&6You have successfully loaded &9&lKit Diamond&6."
+   diamond_sign_create: "&7Sign '&9&lKit Diamond&7' has successfully been created!"
+   
+   archer_successfully_loaded: "&6You have successfully loaded &d&lKit Archer&6." 
+   archer_sign_create: "&7Sign '&d&lKit Archer&7' has successfully been created!"
+   
+   bard_sign_create: "&7Sign '&e&lKit Bard&7' has successfully been created!"
+   bard_successfully_loaded: "&6You have successfully loaded &e&lKit Bard&6." 
+   
+   rogue_sign_create: "&7Sign '&8&lKit Rogue&7' has successfully been created!"
+   rogue_successfully_loaded: "&6You have successfully loaded &8&lRogue Bard&6."
+   
+   builder_sign_create: " &7Sign '&2&lKit Builder&7' has successfully been created!"   
+   builder_successfully_loaded: "&6You have successfully loaded &2&lKit Builder&6."
